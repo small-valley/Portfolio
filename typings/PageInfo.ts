@@ -1,0 +1,3 @@
+type PageInfo = {
+    aboutParagraph: string,
+}
