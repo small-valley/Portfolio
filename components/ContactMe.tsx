@@ -17,12 +17,12 @@ export default function ContactMe({}: Props) {
             <div className='space-y-10'>
                 <div className='flex items-center space-x-5 justify-center'>
                     <PhoneIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse'/>
-                    <p className='texe-2xl'>+12368802007</p>
+                    <p className='texe-2xl'>+1(236)-880-2007</p>
                 </div>
 
                 <div className='flex items-center space-x-5 justify-center'>
                     <EnvelopeIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse'/>
-                    <p className='texe-2xl'>masahiro.kotani.1992@gmail.com</p>
+                    <p className='texe-2xl'>masahiro.kotani3141@gmail.com</p>
                 </div>
 
                 <div className='flex items-center space-x-5 justify-center'>

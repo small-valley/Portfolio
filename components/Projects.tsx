@@ -49,6 +49,7 @@ export default function Projects({projects}: Props) {
                         <p className='text-lg text-center md:text-left'>
                             {project.summary}
                         </p>
+                        <a href={project.link}>Link to project source</a>
                     </div>
                 </div>
             })}
