@@ -3,5 +3,6 @@ type Project = {
     alt: string,
     title: string,
     summary: string,
+    link: string,
     technologies: Technology[],
 }
