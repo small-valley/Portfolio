@@ -50,7 +50,7 @@ export default function Projects({projects}: Props) {
                         <p className='text-lg text-center md:text-left'>
                             {project.summary}
                         </p>
-                        <Link href={project.link}>Link to project source</Link>
+                        <Link href={project.link} className='italic text-[#F7AB0A]/80'>project source</Link>
                     </div>
                 </div>
             })}

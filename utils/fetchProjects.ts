@@ -29,8 +29,8 @@ export const fetchProjects = () => {
             iconUrl: "",
             alt: "",
             title: "Passport Ranking",
-            summary: "Visualizing Passport Ranking data so that one can compare difference between country to country (working on)",
-            link: "",
+            summary: "Visualizing Passport Ranking data so that one can compare difference between country to country",
+            link: "https://github.com/small-valley/PassportRanking",
             technologies: [
                 {
                     key: "1",
