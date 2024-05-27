@@ -43,9 +43,8 @@ export const fetchProjects = () => {
     {
       // iconUrl: "",
       // alt: "ProjectIcon",
-      title: "Books Management System",
-      summary: `Listing books one have read and searching data.\n
-      Integrated with AWS Cognito and deployed on AWS with serverless architecture using CDK.\n
+      title: "Books Manager",
+      summary: `Integrated with AWS Cognito.\n
       Username: test  Password: Test1234!`,
       links: [
         {
